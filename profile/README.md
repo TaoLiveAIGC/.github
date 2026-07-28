@@ -23,3 +23,11 @@ We are the **TaoLiveAIGC** Team at [Taobao & Tmall, Alibaba Group](https://www.a
 - **CoInteract**: Spatially-Structured Co-Generation for Interactive Human-Object Video Synthesis   
   [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2604.19636) 
   [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://xinxiaozhe12345.github.io/CoInteract_Project/) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/georgexin/cointeract) [![GitHub Stars](https://img.shields.io/github/stars/luoxyhappy/CoInteract?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/CoInteract)
+
+- **TaoMate**: Anchor-Guided Memory Bridging Evolving and Reference States for Real-Time Audio-Video Digital Human Generation   
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2607.24359) 
+  [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://taoliveaigc.github.io/TaoMate/) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/TaoLiveAIGC/TaoMate) [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/TaoMate?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/TaoMate)
+
+- **AptAvatar**: Fast and Vivid Long-Form Audio-Driven Video Generation for Production-Ready Avatars   
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2607.24013) 
+   [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/TaoLiveAIGC/AptAvatar) [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/AptAvatar?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/AptAvatar)
