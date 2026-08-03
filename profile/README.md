@@ -13,7 +13,8 @@ We are the **TaoLiveAIGC** Team at [Taobao & Tmall, Alibaba Group](https://www.a
 
 ### 🎙️ Voice Synthesis
 
-
+- **Qwen3-TTS-TBLive**: A Live-Commerce-Oriented Speech Synthesis Model Built upon Qwen3-TTS   
+   [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/TaoLiveAIGC/Qwen3-TTS-TBLive) [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/Qwen3-TTS-TBLive?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/Qwen3-TTS-TBLive)
 
 ### 🧠 Large Language Model
 
