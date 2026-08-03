@@ -11,7 +11,7 @@ We are the **TaoLiveAIGC** Team at [Taobao & Tmall, Alibaba Group](https://www.a
 
 ## 💻 Research Projects
 
-### 🎙️ Voice Synthesis
+### 🎙️ TTS
 
 - **Qwen3-TTS-TBLive**: Live-Streaming Domain-adaption Built on Qwen3-TTS-1.7B Base model   
   [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://taoliveaigc.github.io/Qwen3-TTS-TBLive-Infer/) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/TaoLiveAIGC/Qwen3-TTS-TBLive-Base)
