@@ -32,3 +32,9 @@ We are the **TaoLiveAIGC** Team at [Taobao & Tmall, Alibaba Group](https://www.a
 - **AptAvatar**: Fast and Vivid Long-Form Audio-Driven Video Generation for Production-Ready Avatars   
   [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2607.24013) 
    [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/TaoLiveAIGC/AptAvatar) [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/AptAvatar?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/AptAvatar)
+
+### 🌐 Multimodal Large Language Model
+
+- **TLive-Omni**: An Omni-Modal Understanding Model for E-Commerce Live Streaming  
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://github.com/TaoLiveAIGC/TLive-Omni)
+  [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-4B-yellow)](https://huggingface.co/TaoLiveAIGC/TLive-Omni-4B) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-9B-yellow)](https://huggingface.co/TaoLiveAIGC/TLive-Omni-9B) [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/TLive-Omni?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/TLive-Omni)
