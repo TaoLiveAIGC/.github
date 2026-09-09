@@ -18,9 +18,6 @@ We are the **TaoLiveAIGC** Team at [Taobao & Tmall, Alibaba Group](https://www.a
 
 ### 🧠 Large Language Model
 
-- **Harness-Aware Training**: Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report  
-  [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2608.15763) 
-
 ### 🎥 Video Generation
 
 - **TBDub**: Production-Oriented Visual Dubbing   
