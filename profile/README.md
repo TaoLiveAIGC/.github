@@ -21,8 +21,7 @@ We are the **TaoLiveAIGC** Team at [Taobao & Tmall, Alibaba Group](https://www.a
 ### 🎥 Video Generation
 
 - **TBDub**: Production-Oriented Visual Dubbing   
-  [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2609.06144)<br>
-  [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://taoliveaigc.github.io/TBDub/) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/TaoLiveAIGC/TBDub) [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/TBDub?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/TBDub)
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2609.06144) [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://taoliveaigc.github.io/TBDub/) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/TaoLiveAIGC/TBDub) [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/TBDub?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/TBDub)
 
 - **CoInteract**: Spatially-Structured Co-Generation for Interactive Human-Object Video Synthesis   
   [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2604.19636) 
