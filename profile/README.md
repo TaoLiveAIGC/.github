@@ -9,6 +9,9 @@
 
 We are the **TaoLiveAIGC** Team at [Taobao & Tmall, Alibaba Group](https://www.alibaba.com/), building **next-generation digital humans for live commerce**. Our work spans speech, LLMs, video generation, and multimodal intelligence, enabling natural and real-time interaction at scale.
 
+- Github: https://github.com/TaoLiveAIGC
+- Huggingface: https://huggingface.co/TaoLiveAIGC
+
 ## 💻 Research Projects
 
 ### 🎙️ TTS
