@@ -35,7 +35,7 @@ We are the **TaoLiveAIGC** Team at [Taobao & Tmall, Alibaba Group](https://www.a
   [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://taoliveaigc.github.io/TaoMate/) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/TaoLiveAIGC/TaoMate) [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/TaoMate?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/TaoMate)
 
 - 🚀**TaoMate-H3**: TaoMate training with MiniMax H3. Streaming video generation with 3-step LoRA.   
-   [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/TaoLiveAIGC/TaoMate-H3) [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/TaoMate-H3?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/TaoMate-H3)   
+   [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/TaoLiveAIGC/TaoMate-H3)  [![ModelScope](https://img.shields.io/badge/ModelScope-Model-white?labelColor=%23EF3D5D)](https://modelscope.ai/models/TaoLiveAIGC/TaoMate-H3)  [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/TaoMate-H3?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/TaoMate-H3)   
    - 🤩2026/09/08: We first migrate MiniMax H3 to TaoMate (T2AV) for streaming, with the complete streaming FL2AV and Ref2AV on the way, please stay tuned.
 
 
