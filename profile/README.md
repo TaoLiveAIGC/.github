@@ -39,10 +39,13 @@ We are the **TaoLiveAIGC** Team at [Taobao & Tmall, Alibaba Group](https://www.a
    - 🤩2026/10/15: We release the first streaming FL2AV model. Have fun! ❤️
    - 🤩2026/09/08: We first migrate MiniMax H3 to TaoMate (T2AV) for streaming, with the complete streaming FL2AV and Ref2AV on the way, please stay tuned.
 
-
 - 🚀**AptAvatar**: Fast and Vivid Long-Form Audio-Driven Video Generation for Production-Ready Avatars   
   [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2607.24013) 
   [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/TaoLiveAIGC/AptAvatar) [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/AptAvatar?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/AptAvatar)
+
+- 🚀**TaoMate-HD**: Progressive-Resolution Autoregressive Audio-Video Generation   
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2611.03394) 
+  [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://taoliveaigc.github.io/TaoMate-HD/) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/TaoLiveAIGC/TaoMate-HD)  [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/TaoMate-HD?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/TaoMate-HD)   
 
 ### 🌐 Multimodal Large Language Model
 
