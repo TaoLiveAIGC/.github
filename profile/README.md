@@ -28,7 +28,7 @@ We are the **TaoLiveAIGC** Team at [Taobao & Tmall, Alibaba Group](https://www.a
   
 - 🚀**TaoMate-FVSR**: Audio-Guided Facial Video Restoration  
   [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2611.03393) 
-  [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://taoliveaigc.github.io/TaoMate-FVSR/) [![Hugging Face](https://huggingface.co/TaoLiveAIGC/TaoMate-FVSR)  [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/TaoMate-HD?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/TaoMate-FVSR/)
+  [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://taoliveaigc.github.io/TaoMate-FVSR/) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/TaoLiveAIGC/TaoMate-FVSR)  [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/TaoMate-HD?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/TaoMate-FVSR/)
 
 - 🚀**TaoMate-H3**: TaoMate training with MiniMax H3. Streaming video generation with 3-step LoRA.   
    [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/TaoLiveAIGC/TaoMate-H3)  [![ModelScope](https://img.shields.io/badge/ModelScope-Model-white?labelColor=%23EF3D5D)](https://modelscope.ai/models/TaoLiveAIGC/TaoMate-H3)  [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/TaoMate-H3?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/TaoMate-H3)   
