@@ -22,7 +22,7 @@ We are the **TaoLiveAIGC** Team at [Taobao & Tmall, Alibaba Group](https://www.a
 ### 🧠 Large Language Model
 
 ### 🎥 Video Generation
-- 🚀**TaoMate-HD**: Progressive-Resolution Autoregressive Audio-Video Generation
+- 🚀**TaoMate-HD**: Progressive-Resolution Autoregressive Audio-Video Generation  
   [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2611.03394) 
   [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://taoliveaigc.github.io/TaoMate-HD/) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow)](https://huggingface.co/TaoLiveAIGC/TaoMate-HD)  [![GitHub Stars](https://img.shields.io/github/stars/TaoLiveAIGC/TaoMate-HD?style=social&label=GitHub+Stars)](https://github.com/TaoLiveAIGC/TaoMate-HD)
   
